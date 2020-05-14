@@ -1,4 +1,4 @@
-# Trading using reinforcement learningf
+# Trading using reinforcement learning
 ## Environment
 There is a gym certified environment as well but has only 2 actions buy and sell. I liked the idea behind that being that the action space should be simple but felt maybe simplifying it more to just long and short would be better. 
 Sometimes bots just carry one trade for months (maybe to avoid transaction costs or something else). Asking for a perspective thus is better.
